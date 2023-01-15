@@ -1,0 +1,10 @@
+discord.py-self
+requests
+colorama
+selenium
+bs4
+Pillow
+aiohttp
+gtts
+keyring
+numpy
